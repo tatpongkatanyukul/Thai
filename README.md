@@ -1,3 +1,13 @@
+# การใช้ภาษาไทย
+
+## การันต์
+
+>> ...ตัวการันต์นั้นจะอยู่สุดท้ายของคำหรืออยู่ระหว่างกลางคำก็ได้ เช่น :- ฉันท์ สาส์น ชอล์ก ...
+
+ที่มา 
+[The Journal of the Royal Society of Thailand, vol 40 no 2, Apr-Jun 2015, pp. 26](https://www.orst.go.th/FILEROOM/CABROYINWEB/DRAWER004/GENERAL/DATA0000/00000615.FLP/html/35/#zoom=z)
+(สืบค้น 2 พย 64)
+
 # โปรแกรมภาษาไทย
 
 ## ไพธอนกับภาษาไทย
